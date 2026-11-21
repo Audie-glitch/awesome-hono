@@ -152,6 +152,7 @@ Prefer the Validation guide + a schema library that fits your stack. Official `@
 | [honojs/skills](https://github.com/honojs/skills) | Official agent skills for Hono |
 | [Routing API](https://hono.dev/docs/api/routing) | Routers, params, wildcards |
 | [Context API](https://hono.dev/docs/api/context) | c.req / c.json / variables |
+| [xmcp Hono adapter](https://xmcp.dev/docs/adapters/hono) | Expose tools, resources, and prompts through an MCP endpoint in a Hono app |
 
 ## Contributing
 
